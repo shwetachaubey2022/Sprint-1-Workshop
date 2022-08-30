@@ -1,0 +1,7 @@
+Door
+Window
+Table
+Chair
+Couch
+Bed
+Mirror
