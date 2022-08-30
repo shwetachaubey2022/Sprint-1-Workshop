@@ -5,3 +5,5 @@ Chair
 Couch
 Bed
 Mirror
+Dresser
+Cabinet
