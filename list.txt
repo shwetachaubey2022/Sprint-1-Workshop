@@ -1,9 +1,8 @@
-Door
-Window
 Table
 Chair
 Couch
 Bed
-Mirror
 Dresser
 Cabinet
+some more stuff
+Television
